@@ -20,10 +20,10 @@
 
 ###
 
-<div align="center">
+<h1><div align="center">
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U0tJTExT/hacked.png"  />
-</div>
-<hr>
+</div></h1>
+
 
 ###
 
@@ -48,23 +48,21 @@
 
 ###
 
-<div align="center">
-  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/IHNvY2lhbCBtZWRpYQ/hacked.png"  />
-</div>
-<hr>
+<h1><div align="center">
+  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/IHNvY2lhbCBtZWRpYQ/hacked.png" />
+</div></h1>
 
 ###
 
-<p align="left">What, do I look like like a zoomer? I don't have social media at the moment but since you insist so much, the most I have is this here:></p>
+<p align="left">What, do I look like like a zoomer? I don't have social media at the moment but since you insist so much, the most I have is this here: </p>
   
 * Discord: not_sm1le
 
 ###
 
-<div align="center">
+<h1><div align="center">
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Y29uY2x1c2lvbg/hacked.png"  />
-</div>
-<hr>
+</div></h1>
 
 ###
 

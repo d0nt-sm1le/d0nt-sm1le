@@ -2,8 +2,6 @@
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/S2luZyBvZiBhbiBvbGQga2luZ2RvbQ/hacked.png"  />
 </div>
 
-<hr>
-
 ###
 
 <div align="center">

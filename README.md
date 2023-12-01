@@ -20,9 +20,9 @@
 
 ###
 
-<h1><div align="center">
+<div align="center">
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U0tJTExT/hacked.png"  />
-</div></h1>
+</div>
 
 
 ###
@@ -48,9 +48,9 @@
 
 ###
 
-<h1><div align="center">
+<div align="center">
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/IHNvY2lhbCBtZWRpYQ/hacked.png" />
-</div></h1>
+</div>
 
 ###
 
@@ -60,9 +60,9 @@
 
 ###
 
-<h1><div align="center">
+<div align="center">
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Y29uY2x1c2lvbg/hacked.png"  />
-</div></h1>
+</div>
 
 ###
 

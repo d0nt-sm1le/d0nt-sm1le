@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMjAyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aGF0ZWZ1bCBzb3Vs/hacked.png"  />
+  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjQjYwMjAyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aGF0ZWZ1bCBzb3Vs/hacked.png"  />
 </div>
+
 
 ###
 
@@ -21,7 +22,7 @@
 ###
 
 <div align="center">
-  <img height="60" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/c2tpbGxz/hacked.png"  />
+  <img height="60" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjQkIwNDA0IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/c2tpbGxz/hacked.png"  />
 </div>
 
 ###
@@ -48,8 +49,8 @@
 ###
 
 <div align="center">
-  <img height="60" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SEFDS0VE/hacked.png" />
-  
+  <img height="60" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjQkIwNDA0IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SEFDS0VE/hacked.png" />
+
 ###
 
 <p align="center">I used the translator to use this here and I'm incel 🩸</p>
@@ -57,7 +58,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://static.wikia.nocookie.net/fiction-battlefield/images/2/22/Berserk_wallpaper_by_fazal_sama-d91t79u.jpg/revision/latest?cb=20181029143844&path-prefix=pt-br"  />
+  <img height="400" src="https://static.wikia.nocookie.net/fiction-battlefield/images/2/22/Berserk_wallpaper_by_fazal_sama-d91t79u.jpg/revision/latest?cb=20181029143844&path-prefix=pt-br"  />
 </div>
 
 ###

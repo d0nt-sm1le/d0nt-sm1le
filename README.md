@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/c2tpbGxz/hacked.png"  />
+  <img height="60" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/c2tpbGxz/hacked.png"  />
 </div>
 
 ###
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SEFDS0VE/hacked.png" />
+  <img height="60" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjo3MCwidyI6MTAwMCwiZnMiOjcwLCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SEFDS0VE/hacked.png" />
   
 ###
 
@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://characters.top/uploads/posts/2023-06/1685761198_beedle-club-p-berserk-krovavaya-luna-fentezi-pinterest-1.jpg"  />
+  <img height="500" src="https://static.wikia.nocookie.net/fiction-battlefield/images/2/22/Berserk_wallpaper_by_fazal_sama-d91t79u.jpg/revision/latest?cb=20181029143844&path-prefix=pt-br"  />
 </div>
 
 ###

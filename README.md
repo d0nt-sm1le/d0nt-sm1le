@@ -52,26 +52,12 @@
   <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/IHNvY2lhbCBtZWRpYQ/hacked.png" />
 </div>
 
-###
-
-<p align="left">What, do I look like like a zoomer? I don't have social media at the moment but since you insist so much, the most I have is this here: </p>
-  
-* Discord: not_sm1le
-
-###
-
-<div align="center">
-  <img height="" src="https://see.fontimg.com/api/renderfont4/KerX/eyJyIjoiZnMiLCJoIjozNSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjOTYwMzAzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Y29uY2x1c2lvbg/hacked.png"  />
-</div>
-
-###
-
 <p align="center">I used the translator to use this here and I'm incel 🩸</p>
 
 ###
 
 <div align="center">
-  <img height="500" src="https://i.imgur.com/dwn7vGCg.jpg"  />
+  <img height="500" src="https://characters.top/uploads/posts/2023-06/1685761198_beedle-club-p-berserk-krovavaya-luna-fentezi-pinterest-1.jpg"  />
 </div>
 
 ###
